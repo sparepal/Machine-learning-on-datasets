@@ -1,5 +1,4 @@
 # Machine-learning-on-datasets
-
-Training time comparision 
-Linearly seperable algorithms after plotting results using PCA variance
-Results/Accuracy comparision
+Training time comparision_
+Linearly seperable algorithms after plotting results using PCA variance_
+Results/Accuracy comparision_UCI Machine learning Repository(Datasets source)
